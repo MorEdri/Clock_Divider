@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Nov 21 21:46:06 2019
+# Process ID: 24488
+# Current directory: C:/Verilog/05_05/sequential_ch
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19236 C:\Verilog\05_05\sequential_ch\sequential_ch.xpr
+# Log file: C:/Verilog/05_05/sequential_ch/vivado.log
+# Journal file: C:/Verilog/05_05/sequential_ch\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Verilog/05_05/sequential_ch/sequential_ch.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Verilog/05_05/sequential_ch/clock_divider_TB_behav.wcfg
+source clock_divider_TB.tcl
+close_sim
